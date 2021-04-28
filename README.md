@@ -1,6 +1,5 @@
-# sIoT-app-mqtt
 
-##SIoT实现mqtt实验源码：
+#SIoT实现mqtt实验源码：
 /*!
  * MindPlus
  * mpython
@@ -59,7 +58,7 @@ void obloqMqttEventT1(String& message) {
 }
 
 
-##安卓app实现mqtt实验源码：
+#安卓app实现mqtt实验源码：
 /*!
  * MindPlus
  * mpython
